@@ -13,16 +13,16 @@ body{
     color: white;
     font-size: 60px; 
 }
-#option {
+.option {
     background-color: rgb(185, 185, 185);
     color: black;
 }
 
-#operation {
+.operation {
     background-color: orange;
 }
 
-#number {
+.number {
     background-color: rgb(56, 56, 56);
 }
 
@@ -35,5 +35,5 @@ body{
 
 .results{
     background-color: rgb(43, 43, 43);
-    height: 250px;
+    height: 150px;
 }
